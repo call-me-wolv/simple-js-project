@@ -1,0 +1,25 @@
+#button{
+  background-color: yellow;
+  padding: 5px;
+  position: relative;
+  top: 120px;
+  font-size: 24px;
+  color: blue;
+  border-radius: 10px;
+
+}
+#button:hover{
+  background-color: white;
+}
+#wrapper {
+  background-color: grey;
+width: 100%;
+  top:10px;
+height:800px ;
+
+}
+span{
+  color:#66ff1a;
+  font-size: 24px;
+  position: relative;
+}
