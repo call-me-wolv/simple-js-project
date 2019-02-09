@@ -3,7 +3,7 @@ var div = document.getElementById('wrapper');
 function myFunction(){
   var div = document.getElementById('wrapper');
 
-  var arr = ['a','b','c','d','e','f'];
+  var arr = ['a','r','v','i','n','d'];
   var j=0;
   var left = 0;
   var min=70;
